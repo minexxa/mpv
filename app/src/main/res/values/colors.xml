@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="overlay_text">#FFFFFFFF</color>
+    <color name="controls_scrim">#CC000000</color>
+    <color name="hud_bg">#B3000000</color>
+    <color name="ic_launcher_background">#FF1B1B1F</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mpv 播放器</string>
+    <string name="hint_empty">点「打开文件」选一个视频，或「打开链接」输入网络地址</string>
+    <string name="time_zero">00:00 / 00:00</string>
+    <string name="rewind">-10s</string>
+    <string name="forward">+10s</string>
+    <string name="speed_default">1.0x</string>
+    <string name="subtitle">字幕</string>
+    <string name="audio_track">音轨</string>
+    <string name="aspect">画面</string>
+    <string name="hwdec_auto">自动解码</string>
+    <string name="open_file">打开文件</string>
+    <string name="open_url">打开链接</string>
+</resources>
