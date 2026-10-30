@@ -23,14 +23,6 @@ android {
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
-        when {
-            project.hasProperty("onlyArm64") -> {
-                ndk { abiFilters += "arm64-v8a" }
-            }
-            project.hasProperty("onlyArmV7a") -> {
-                ndk { abiFilters += "armeabi-v7a" }
-            }
-        }
         ndk {
             abiFilters.addAll(targetAbis)
         }
